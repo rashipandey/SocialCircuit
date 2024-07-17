@@ -22,8 +22,8 @@ This project is a comprehensive social media platform built using the MERN stack
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/social-media-project.git
-   cd social-media-project
+   git clone https://github.com/yourusername/SocialCircuit.git
+   cd SocialCircuit
    
 2. ** Install dependencies
 ```bash
